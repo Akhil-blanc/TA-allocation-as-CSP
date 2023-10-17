@@ -1,0 +1,21 @@
+S.No,Course Code,Course Name,Offered for,Credits,No. of Students
+0,CSL3090,Artificial Intelligence,UG-3|UG-4,3-0-0,60
+1,CSL3080,Computer Architecture,UG-3,3-0-0,100
+2,CSL3050,Computer Networks,UG-3,3-0-3,100
+3,CSL3060,Database Systems,UG-3,3-0-2,160
+4,CSL4010,Optimization in ML,UG-3|UG-4,3-0-3,250
+5,CSL7020,Machine Learning,M.Tech-2|PhD-1,3-0-0,100
+6,CSL2090,PCS2,UG-2,3-0-2,60
+7,CSL1010,Introduction to Computer Science,UG-1,3-0-2,210
+8,CSL2020,Data Structures and Algorithms,UG-2,3-0-2,250
+9,CSL2070,Software Engineering,UG-2,3-0-2,100
+10,CSL2040,Maths for Computing,UG-2,3-1-0,160
+11,CSL2050,Pattern Recognition and Machine Learning,UG-2,3-0-2,210
+12,CSL2080,PCS1,UG-2,2-0-2,60
+13,CSL4030,Data Engineering,UG-3,3-0-3,60
+14,CSL3030,Operating Systems,UG-3,3-0-2,100
+15,CSL3020,Principles of Programming Languages,UG-3,3-0-0,130
+16,CSL3010,Design and Analysis of Algorithms,UG-3,3-1-0,150
+17,CSL7050,DL-Ops,UG-4|M.Tech-1,0-0-2,15
+18,CSL4050,Introduction to Computer Graphics,UG-4|M.Tech-1,3-0-0,210
+19,CSL7080,Computer Vision,M.Tech-1,0-0-2,100

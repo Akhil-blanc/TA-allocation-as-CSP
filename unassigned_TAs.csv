@@ -1,0 +1,87 @@
+S. No.,Roll No.,Name,Program,Branch,Preference-1,Grade-1,Preference-2,Grade-2,Preference-3,Grade-3,Preference-4,Grade-4,Preference-5,Grade-5
+1,M23AI148,Ivana Deep,M.Tech-1,AI,Artificial Intelligence,A,Software Engineering,A,PCS1,A-,PCS2,B-,Introduction to Computer Graphics,A
+2,D23CS181,Yakshit Brar,M.Tech-PhD-1,AI,Artificial Intelligence,A-,PCS2,B,Principles of Programming Languages,A,Machine Learning,B,Database Systems,A
+3,B20CS139,Nayantara Kota,UG-4,CS,Artificial Intelligence,A,DL-Ops,A,Optimization in ML,A,Computer Vision,A,Introduction to Computer Science,A
+4,B21AI118,Tarini Dutta,UG-3,AI,Artificial Intelligence,A,Software Engineering,A-,Introduction to Computer Graphics,A-,Computer Vision,A,Design and Analysis of Algorithms,A-
+5,P21AI099,Tanya Agarwal,PhD-3,CS,Data Structures and Algorithms,B-,Artificial Intelligence,A,Introduction to Computer Science,A,Design and Analysis of Algorithms,A-,Operating Systems,A
+6,D23AI091,Zara Sem,M.Tech-PhD-1,CS,PCS1,A,Artificial Intelligence,A,Data Structures and Algorithms,A,Software Engineering,A-,Optimization in ML,A
+7,P23CS019,Kismat Hayre,PhD-1,AI,Machine Learning,A,DL-Ops,A,Artificial Intelligence,A-,Computer Networks,A,Optimization in ML,A
+8,M23CS165,Dishani Dani,M.Tech-1,CS,Design and Analysis of Algorithms,A,Computer Vision,A-,Artificial Intelligence,A,Introduction to Computer Graphics,A,Optimization in ML,A
+9,P19CS018,Mishti Srinivas,PhD-5,CS,Computer Architecture,B,Computer Networks,A,PCS2,A,Artificial Intelligence,A,Machine Learning,A
+10,M22CS014,Tarini Bath,M.Tech-2,AI,Computer Architecture,A-,Data Engineering,A,Machine Learning,B-,Artificial Intelligence,A,Optimization in ML,A-
+11,M23AI027,Advika Bansal,M.Tech-1,AI,Data Engineering,A,Computer Architecture,A-,Pattern Recognition and Machine Learning,A,Artificial Intelligence,A,PCS1,A
+12,B21AI016,Ela Sachdeva,UG-3,AI,Principles of Programming Languages,A,DL-Ops,B-,Machine Learning,A,Artificial Intelligence,A-,Data Structures and Algorithms,A
+13,M22CS017,Vaibhav Khatri,M.Tech-2,CS,Principles of Programming Languages,A,Computer Networks,A-,PCS2,A,Optimization in ML,A,Artificial Intelligence,A
+14,B20AI058,Onkar Bera,UG-4,AI,Optimization in ML,A-,Computer Vision,A,Maths for Computing,A-,Machine Learning,A,Artificial Intelligence,A-
+15,M23AI178,Oorja Rout,M.Tech-1,CS,Computer Architecture,A,Data Engineering,A,PCS2,B-,Machine Learning,A,Database Systems,A
+16,B21AI026,Anya Varghese,UG-3,AI,Computer Architecture,A,Data Engineering,A,Database Systems,A-,Introduction to Computer Graphics,A,Maths for Computing,A
+17,B21AI104,Siya Bhalla,UG-3,CS,Computer Architecture,A,Operating Systems,A,Design and Analysis of Algorithms,A,Software Engineering,B,Optimization in ML,B
+18,B21AI078,Jivika Mander,UG-3,CS,Computer Architecture,A,Pattern Recognition and Machine Learning,A-,Database Systems,A-,DL-Ops,A-,PCS2,A
+19,P21AI104,Aayush Varkey,PhD-3,AI,DL-Ops,A-,Computer Architecture,A-,Introduction to Computer Graphics,B,Computer Vision,B-,Principles of Programming Languages,B-
+20,M22CS036,Vidur Lad,M.Tech-2,CS,Computer Vision,A,Computer Architecture,A-,Software Engineering,A-,Introduction to Computer Graphics,B,Introduction to Computer Science,A-
+21,M22CS153,Pranay Sachdeva,M.Tech-2,AI,Computer Vision,B,PCS1,A-,Pattern Recognition and Machine Learning,A,Computer Architecture,A-,Maths for Computing,A-
+22,B21CS017,Navya Issac,UG-3,AI,Maths for Computing,A,PCS1,A-,Software Engineering,A-,Computer Architecture,A,Machine Learning,A
+23,M23AI048,Nitara Mahajan,M.Tech-1,CS,Optimization in ML,B-,Computer Vision,A,Database Systems,A,PCS1,A-,Computer Architecture,A
+24,B21CS126,Piya Mani,UG-3,AI,Software Engineering,A,Principles of Programming Languages,A,PCS1,A,Optimization in ML,B-,Computer Architecture,A
+25,B21CS110,Reyansh Hayre,UG-3,CS,Computer Vision,A,Data Structures and Algorithms,A-,Pattern Recognition and Machine Learning,A,Maths for Computing,A-,Computer Architecture,A
+26,M23AI003,Inaaya  Mahal,M.Tech-1,CS,Computer Networks,A,Operating Systems,B-,Introduction to Computer Graphics,A,Pattern Recognition and Machine Learning,B,Data Engineering,A
+27,B20CS066,Aaina Dani,UG-4,AI,Computer Networks,A,Principles of Programming Languages,A,Machine Learning,A-,Introduction to Computer Science,A-,PCS1,A
+28,B20CS141,Ayesha Sani,UG-4,CS,Computer Networks,A,Machine Learning,A-,Pattern Recognition and Machine Learning,A,Software Engineering,A,Principles of Programming Languages,A
+29,B21CS001,Aayush Thaker,UG-3,CS,Computer Networks,A,Data Engineering,A,Optimization in ML,A,Principles of Programming Languages,A,Maths for Computing,A
+30,P22AI197,Piya Madan,PhD-2,AI,Data Engineering,A,Computer Networks,A,Computer Vision,A,Data Structures and Algorithms,A,Database Systems,A
+31,M23CS175,Arhaan Mann,M.Tech-1,AI,Optimization in ML,B-,Computer Networks,A,Maths for Computing,A,Software Engineering,A-,Data Structures and Algorithms,B-
+32,B20AI154,Dhruv Kibe,UG-4,AI,PCS1,A,Computer Networks,A,Pattern Recognition and Machine Learning,A-,Software Engineering,B-,Data Engineering,B-
+33,B21CS164,Yasmin Andra,UG-3,AI,Software Engineering,A-,Computer Networks,A-,Pattern Recognition and Machine Learning,A-,Introduction to Computer Graphics,A,Computer Vision,A
+34,D19CS149,Eva Soman,M.Tech-PhD-5,CS,DL-Ops,B,Principles of Programming Languages,B-,Computer Networks,A-,Optimization in ML,A,Computer Vision,A
+35,P22CS053,Pari Choudhury,PhD-2,CS,DL-Ops,A-,Maths for Computing,A,Computer Networks,A,Design and Analysis of Algorithms,B-,Pattern Recognition and Machine Learning,A
+36,D19CS107,Riaan Chana,M.Tech-PhD-5,AI,DL-Ops,B-,Operating Systems,B,Computer Networks,A,Maths for Computing,A-,Machine Learning,A
+37,P21AI005,Tara Keer,PhD-3,CS,Introduction to Computer Science,B-,Maths for Computing,A,Data Structures and Algorithms,A,Computer Networks,A-,Software Engineering,B
+38,B21AI051,Ayesha Bora,UG-3,AI,Introduction to Computer Graphics,A,PCS2,A,Principles of Programming Languages,A,Computer Networks,A,Data Engineering,A
+39,P22CS184,Anay Sheth,PhD-2,AI,Data Engineering,A,Design and Analysis of Algorithms,B-,Database Systems,A,PCS1,B,Computer Networks,A
+40,D21CS035,Kartik Dhar,M.Tech-PhD-3,AI,Data Engineering,A-,DL-Ops,A-,Maths for Computing,A-,Design and Analysis of Algorithms,A,Computer Networks,A-
+41,P20AI146,Taimur Andra,PhD-4,CS,Machine Learning,A,DL-Ops,A-,Introduction to Computer Science,B-,Design and Analysis of Algorithms,B-,Computer Networks,A
+42,M23CS049,Prisha Sarna,M.Tech-1,AI,Principles of Programming Languages,A,PCS2,A,Machine Learning,A-,PCS1,A,Computer Networks,A-
+43,B20AI110,Adah Andra,UG-4,CS,PCS1,A-,Principles of Programming Languages,A,Optimization in ML,B,DL-Ops,A-,Computer Networks,A-
+44,B21AI189,Zara Rama,UG-3,CS,Database Systems,A,Data Structures and Algorithms,A,Maths for Computing,A-,Software Engineering,A,Computer Networks,B
+45,M22CS052,Rhea Gour,M.Tech-2,CS,Pattern Recognition and Machine Learning,B,Database Systems,A,Operating Systems,A,PCS1,A-,Data Structures and Algorithms,A
+46,M23AI181,Madhup Lad,M.Tech-1,CS,PCS1,A,Database Systems,A,Software Engineering,A,Operating Systems,A-,Machine Learning,B
+47,P21CS086,Vedika Venkataraman,PhD-3,AI,DL-Ops,B-,Design and Analysis of Algorithms,A-,Database Systems,A-,Data Engineering,A,Principles of Programming Languages,B
+48,M22CS063,Pari Kapur,M.Tech-2,AI,Design and Analysis of Algorithms,B,Introduction to Computer Science,B-,Database Systems,A-,DL-Ops,A,Computer Vision,A
+49,B21AI020,Samaira Bhavsar,UG-3,AI,Computer Architecture,B,Machine Learning,A-,Database Systems,A,Principles of Programming Languages,A,Pattern Recognition and Machine Learning,B-
+50,B20CS137,Ira Arya,UG-4,AI,Optimization in ML,A,Principles of Programming Languages,A-,Data Engineering,A-,Computer Vision,A,Operating Systems,A
+51,B20CS169,Samiha Kurian,UG-4,AI,Optimization in ML,A-,Data Structures and Algorithms,A,Artificial Intelligence,B-,DL-Ops,A-,Introduction to Computer Science,A
+52,B20CS196,Tanya Grover,UG-4,AI,Introduction to Computer Graphics,A,Optimization in ML,A-,Introduction to Computer Science,A,Computer Architecture,B,Data Structures and Algorithms,B
+53,B20CS051,Bhavin Mandal,UG-4,CS,PCS2,A-,PCS1,A,Optimization in ML,A,Design and Analysis of Algorithms,A,Operating Systems,A-
+54,B21CS124,Umang Doctor,UG-3,CS,Data Engineering,A,Computer Vision,A,Optimization in ML,A,Principles of Programming Languages,A,Introduction to Computer Science,A-
+55,D21CS095,Aarav Keer,M.Tech-PhD-3,AI,Introduction to Computer Science,B-,Data Engineering,A-,PCS1,A-,Optimization in ML,A,DL-Ops,A
+56,M22CS146,Damini Agarwal,M.Tech-2,CS,PCS2,B-,Operating Systems,A,Computer Vision,A,Optimization in ML,A,Data Structures and Algorithms,A
+57,M23AI014,Vivaan Sheth,M.Tech-1,CS,Computer Vision,A-,Operating Systems,A-,Data Engineering,A-,Optimization in ML,A,Introduction to Computer Graphics,A
+58,P21AI178,Nehmat Bumb,PhD-3,CS,Software Engineering,B,PCS1,A,PCS2,A,Data Structures and Algorithms,A-,Optimization in ML,A
+59,D23AI080,Chirag Dasgupta,M.Tech-PhD-1,CS,Data Engineering,B,Introduction to Computer Graphics,A,Software Engineering,B,Pattern Recognition and Machine Learning,A,Optimization in ML,A
+60,B20AI146,Dhanush Agrawal,UG-4,CS,Machine Learning,A-,Introduction to Computer Graphics,A,PCS2,A,Data Structures and Algorithms,A,Operating Systems,B-
+61,D23AI161,Yashvi Magar,M.Tech-PhD-1,CS,Computer Vision,A,Machine Learning,A,Data Engineering,A,Optimization in ML,B-,Maths for Computing,A
+62,M23AI011,Anvi Krishnan,M.Tech-1,CS,Design and Analysis of Algorithms,A,Machine Learning,A-,Introduction to Computer Science,A,Principles of Programming Languages,A,Maths for Computing,A-
+63,M23AI152,Umang Gole,M.Tech-1,CS,DL-Ops,A,Data Structures and Algorithms,B,Machine Learning,A,Principles of Programming Languages,A,Software Engineering,A-
+64,D19CS100,Tarini Lata,M.Tech-PhD-5,CS,Database Systems,B,Operating Systems,A-,Pattern Recognition and Machine Learning,B,Machine Learning,A-,Design and Analysis of Algorithms,A-
+65,D23AI050,Seher Kunda,M.Tech-PhD-1,CS,PCS1,A,PCS2,B-,Design and Analysis of Algorithms,A,Introduction to Computer Graphics,B,Machine Learning,A-
+66,B20CS099,Yashvi Divan,UG-4,CS,Computer Vision,A,PCS2,A,Introduction to Computer Graphics,A,Software Engineering,A,Data Engineering,A
+67,B21AI100,Samarth Bhakta,UG-3,AI,Computer Networks,B-,PCS2,A,Principles of Programming Languages,A-,Data Engineering,A-,Optimization in ML,B-
+68,M23AI045,Tara Kannan,M.Tech-1,AI,Database Systems,B-,DL-Ops,A-,PCS2,A,Operating Systems,A,Machine Learning,B
+69,D22AI080,Faiyaz Atwal,M.Tech-PhD-2,CS,Computer Architecture,B-,Design and Analysis of Algorithms,A,PCS1,A,Data Structures and Algorithms,A,PCS2,A-
+70,D21AI174,Jayan Sethi,M.Tech-PhD-3,AI,Computer Vision,A,Optimization in ML,B,Principles of Programming Languages,A-,PCS1,A,PCS2,A
+71,M23CS199,Anya Chaudhari,M.Tech-1,AI,PCS1,A,Data Engineering,A-,Introduction to Computer Graphics,A,Operating Systems,B-,PCS2,A-
+72,P21CS060,Eshani Chada,PhD-3,AI,Machine Learning,B-,Computer Vision,A,Introduction to Computer Science,A-,Optimization in ML,B,Data Structures and Algorithms,A-
+73,B21AI197,Jivin Dugal,UG-3,CS,Introduction to Computer Graphics,A,PCS1,A,PCS2,B,Computer Vision,A,Introduction to Computer Science,A
+74,B21AI136,Dhanush Barad,UG-3,AI,Design and Analysis of Algorithms,A,Data Structures and Algorithms,A,Operating Systems,A-,Data Engineering,A,Introduction to Computer Graphics,A-
+75,D20AI049,Divij Ramachandran,M.Tech-PhD-4,AI,DL-Ops,A-,Principles of Programming Languages,A,Data Engineering,A,Data Structures and Algorithms,A,Software Engineering,A
+76,B21AI188,Parinaaz Chadha,UG-3,AI,Design and Analysis of Algorithms,A,Optimization in ML,B-,Operating Systems,A,Data Structures and Algorithms,A-,Introduction to Computer Graphics,A
+77,B21AI199,Baiju Dutta,UG-3,CS,Software Engineering,A,Database Systems,B,Computer Vision,A,Maths for Computing,A,Operating Systems,B
+78,B20CS044,Stuvan Kala,UG-4,AI,Introduction to Computer Graphics,A-,Computer Architecture,B,Data Engineering,A-,Pattern Recognition and Machine Learning,A-,Design and Analysis of Algorithms,A
+79,M23CS025,Himmat Ramesh,M.Tech-1,CS,Principles of Programming Languages,A-,Operating Systems,A,Data Engineering,B,Database Systems,B-,Pattern Recognition and Machine Learning,A
+80,B21CS181,Jayesh Sengupta,UG-3,CS,Design and Analysis of Algorithms,A,DL-Ops,A-,Operating Systems,B-,Data Engineering,A,Introduction to Computer Graphics,A
+81,M23AI122,Mannat Bandi,M.Tech-1,AI,Introduction to Computer Graphics,A,DL-Ops,A-,Design and Analysis of Algorithms,B,Operating Systems,B-,Data Engineering,A
+82,P23CS164,Aradhya Dixit,PhD-1,CS,Principles of Programming Languages,A,Operating Systems,A,Pattern Recognition and Machine Learning,B,Computer Vision,A,Maths for Computing,B-
+83,M23CS121,Neelofar Chand,M.Tech-1,CS,Optimization in ML,B,Software Engineering,B,Operating Systems,A-,Data Engineering,B,Introduction to Computer Graphics,B-
+84,B21AI193,Nirvaan Banik,UG-3,AI,Computer Vision,B-,PCS2,B,Database Systems,B-,Principles of Programming Languages,A-,Operating Systems,A
+85,M23AI098,Ryan Mandal,M.Tech-1,AI,Computer Architecture,B-,Principles of Programming Languages,A,Data Structures and Algorithms,B-,PCS1,B-,DL-Ops,A
+86,D21AI112,Amira Kaul,M.Tech-PhD-3,CS,Computer Architecture,B-,Introduction to Computer Science,B,PCS2,B,Introduction to Computer Graphics,A,Principles of Programming Languages,A
